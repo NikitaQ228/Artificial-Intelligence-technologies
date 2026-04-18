@@ -55,3 +55,4 @@
 1. [kNN и линейный SVM](dl/lab_1-2/assignment1.ipynb)
 2. [Полносвязная нейронная сеть](dl/lab_1-2/assignment2.ipynb)
 3. [Полносвязная и сверточная нейронные сети, Batch normalization, Dropout](dl/lab_3/assignment3.ipynb)
+4. [Tensorflow и Keras API](dl/lab_4/assignment4.ipynb)
